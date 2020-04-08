@@ -3,14 +3,13 @@
 name: Edward N Stanhope
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Lecturer Sport Therapy Stafforshidre University 
+role: Lecturer Sport Therapy Staffordshire University 
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +21,18 @@ bio: Edward graduated from University of Birmingham in 2013 with a first class (
 
 interests:
 - Physical Activity and Non-Communicable Disease
-- buildPhsyical Activity and Breast Cancer
+- Phsyical Activity and Breast Cancer
 - Trial Methodology and Statistics
 
 education:
   courses:
   - course: PhD Student
     institution: Wolverhampton University
-    year: 2020-Present
+    year: (Current)
   - course: MSc Clinical Trials  (Distinction)
     institution: London School Hygiene and Tropical Medicine
     year: 2019
-  - course: MA Teaching and Learning (Distinction)
+  - course: MA Teaching & Learning (Distinction)
     institution: University of Birmingham
     year: 2019
   - course: BSc Sport Therapy (First Class)
