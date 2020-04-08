@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "forest"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -163,7 +163,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = TRUE
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
