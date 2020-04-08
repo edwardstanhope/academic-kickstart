@@ -24,6 +24,7 @@ Edward is now working towards his PhD at the University of Wolverhampton, where 
 
 interests:
 - Physical Activity and Non-Communicable Disease
+Phsyical Activity and Breast Cancer
 - Trial Methodology and Statistics
 
 education:
@@ -73,4 +74,4 @@ user_groups:
 - Staffs Uni-fied Sports Research Alliance (SUSRA)
 ---
 
-Edward is a lecturer at Staffordshire University where he delivers on the Undergraduate Sport Therapy and MSc Applied research Programmmes. Edwards knowledge in trial methodology and statistics sess him oversee the research modules of the Sport Therapy degree and supervise a number of students conducting research on the MSc Applied Reseach program. Edward has a particular research interest in the effects of physcial activity and patients with non-communicable diseases. Edward is currently undertaking a PhD which explores the effects of physical activity in breast cancer patients across their treatment continuum. 
+Edward is a lecturer at Staffordshire University where he delivers on the Undergraduate Sport Therapy and MSc Applied research Programs. Edwards knowledge in trial methodology and statistics sess him oversee the research modules of the Sport Therapy degree and supervise a number of students conducting research on the MSc Applied Reseach program. Edward has a particular research interest in the effects of physcial activity and patients with non-communicable diseases. Edward is currently undertaking a PhD which explores the effects of physical activity in breast cancer patients across their treatment continuum. 
