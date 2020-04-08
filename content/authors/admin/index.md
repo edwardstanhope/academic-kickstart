@@ -11,12 +11,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer Sport Therapy Staffordshire University 
+role: Sport Therapy Lecturer & Clinical Trials Distance Learning Tutor
 
 # Organizations/Affiliations
 organizations:
 - name: Staffordshire University
   url: "https://www.staffs.ac.uk/"
+- name: London School of Hygiene and Tropical Medicine
+  url: "https://www.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Edward is a lecturer at Staffordshire University where he delivers on the Undergraduate Sport Therapy and MSc Applied research Programs. Edwards knowledge in trial methodology and statistics sess him oversee the research modules of the Sport Therapy degree and supervise a number of students conducting research on the MSc Applied Reseach program. Edward has a particular research interest in the effects of physcial activity and patients with non-communicable diseases. Edward is currently undertaking a PhD which explores the effects of physical activity in breast cancer patients across their treatment continuum. 
