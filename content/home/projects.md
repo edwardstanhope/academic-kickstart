@@ -19,23 +19,23 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
   
   [[content.filter_button]]
-  name = "PROVERB: The feasibility of a multi-phasic exercise-based intervention utilising the Health Action Process Approach and wearable technology in women before and after surgery for breast cancer"
+  name = "Multi-phasic exercise-based intervention in women before and after surgery for breast cancer"
   tag = "Breast Cancer"
   
   [[content.filter_button]]
-  name = "CANDANCE: Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
+  name = "Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
   tag = "Breast Cancer"
   
   [[content.filter_button]]
-  name = "ORRCA: Online Resource for Recruitment research in Clinical triAls’"
-  tag = "Other"
+  name = "ORRCA Online Resource for Recruitment research in Clinical triAls’"
+  tag = ""
   
   [[content.filter_button]]
   name = "Teaching the undefinable: a systematic review of professionalism teaching for postgraduate surgeons"
-  tag = "Other"
+  tag = ""
   
   [[content.filter_button]]
   name = "The effects of cryo-compression (GameReady) therapy on shoulder proprioception in healthy adults"
