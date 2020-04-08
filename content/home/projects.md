@@ -22,27 +22,35 @@ subtitle = "Active Projects"
   filter_default = 0
   
   [[content.filter_button]]
-  name = "The feasibility of a multi-phasic exercise-based intervention utilising the Health Action Process Approach and wearable technology in women before and after surgery for breast cancer"
-  tag = "*"
+  name = "PROVERB: The feasibility of a multi-phasic exercise-based intervention utilising the Health Action Process Approach and wearable technology in women before and after surgery for breast cancer"
+  tag = "Breast Cancer"
   
   [[content.filter_button]]
-  name = "Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
-  tag = "*"
+  name = "CANDANCE: Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
+  tag = "Breast Cancer"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+  name = "ORRCA: Online Resource for Recruitment research in Clinical triAls’"
+  tag = "Other"
+  
+  [[content.filter_button]]
+  name = "Teaching the undefinable: a systematic review of professionalism teaching for postgraduate surgeons"
+  tag = "Other"
+  
+  [[content.filter_button]]
+  name = "The effects of cryo-compression (GameReady) therapy on shoulder proprioception in healthy adults"
+  tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -54,18 +62,18 @@ subtitle = "Active Projects"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "White"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  # gradient_start = "White"
+  # gradient_end = "White"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "background.jpg"  # Name of image in `static/img/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = false  
   
 [advanced]
  # Custom CSS. 
