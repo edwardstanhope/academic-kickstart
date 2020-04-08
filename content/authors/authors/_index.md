@@ -4,7 +4,7 @@ name: Edward N Stanhope
 
 # Username (this should match the folder name)
 authors:
-- Edward N Stanhope
+- authors
 
 # Is this the primary user of the site?
 superuser: true
