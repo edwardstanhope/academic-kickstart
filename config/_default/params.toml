@@ -90,7 +90,7 @@ address = {street = "Sport & Exercise Brindley Building", city = "Stoke on Trent
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.0091", longitude = "2.1761"}
+coordinates = {latitude = "53.0091", longitude = "-2.1761"}
 
 # Directions for visitors to locate you.
 directions = "Enter Brindley Building opposite Sir Stanley Matthews Sport Centre and take the stairs to Office B118 on Floor 1"
