@@ -3,7 +3,15 @@ name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
+<<<<<<< HEAD
 - admin
+=======
+<<<<<<< HEAD:content/authors/admin/_index.md
+- admin
+=======
+- authors
+>>>>>>> 10360a91ff7615a24f420de9abe4697badeadcc0:content/authors/authors/_index.md
+>>>>>>> 3686f035215805de0214196b15e8d313c81a9d44
 
 # Is this the primary user of the site?
 superuser: true
