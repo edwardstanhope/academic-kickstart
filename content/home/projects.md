@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "projects"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,20 +22,20 @@ subtitle = ""
   # filter_default = 0
   
   [[content.filter_button]]
-  name = "Multi-phasic exercise-based intervention in women before and after surgery for breast cancer"
-  tag = "Breast Cancer"
+  name = "All"
+  tag = "*"
   
   [[content.filter_button]]
-  name = "Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
-  tag = "Breast Cancer"
+  name = "Physical Activity and Non-Communicable Disease"
+  tag = "Physcial Activity and Non-Communicable Disease"
  
   [[content.filter_button]]
-  name = "ORRCA Online Resource for Recruitment research in Clinical triAls’"
-  tag = ""
+  name = "Cryotherapy"
+  tag = "Cryotherapy"
   
   [[content.filter_button]]
-  name = "Teaching the undefinable: a systematic review of professionalism teaching for postgraduate surgeons"
-  tag = ""
+  name = "Other"
+  tag = "other"
  
   [[content.filter_button]]
   name = "The effects of cryo-compression (GameReady) therapy on shoulder proprioception in healthy adults"
