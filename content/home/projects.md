@@ -21,23 +21,18 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   # filter_default = 0
   
-  [[content.filter_button]]
   name = "Multi-phasic exercise-based intervention in women before and after surgery for breast cancer"
   tag = "Breast Cancer"
   
-  [[content.filter_button]]
   name = "Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
   tag = "Breast Cancer"
   
-  [[content.filter_button]]
   name = "ORRCA Online Resource for Recruitment research in Clinical triAls’"
   tag = ""
   
-  [[content.filter_button]]
   name = "Teaching the undefinable: a systematic review of professionalism teaching for postgraduate surgeons"
   tag = ""
   
-  [[content.filter_button]]
   name = "The effects of cryo-compression (GameReady) therapy on shoulder proprioception in healthy adults"
   tag = "Other"
 
@@ -50,7 +45,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
