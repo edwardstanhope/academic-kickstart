@@ -2,6 +2,7 @@
 title: Prehabilitation and RecOVERy from surgery for Breast cancer (PROVERB) study
 summary: The feasibility of a multi-phasic exercise-based intervention utilising the Health Action Process Approach and wearable technology in women before and after surgery for breast cancer
 tag:
+- all
 - Physical Activity and Non-Communicable Disease
 date: "2016-04-27T00:00:00Z"
 

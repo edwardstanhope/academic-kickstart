@@ -25,9 +25,9 @@ subtitle = ""
   name = "All"
   tag = "*"
   
-  #[[content.filter_button]]
-  #name = "Physical Activity and Non-Communicable Disease"
-  #tag = "Physcial Activity and Non-Communicable Disease"
+  [[content.filter_button]]
+  name = "Physical Activity and Non-Communicable Disease"
+  tag = "Physcial Activity and Non-Communicable Disease"
  
   #[[content.filter_button]]
   #name = "Cryotherapy"
