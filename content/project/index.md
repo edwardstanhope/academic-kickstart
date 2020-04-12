@@ -1,17 +1,16 @@
-
 ---
 title: Prehabilitation and RecOVERy from surgery for Breast cancer (PROVERB) study
 summary: The feasibility of a multi-phasic exercise-based intervention utilising the Health Action Process Approach and wearable technology in women before and after surgery for breast cancer
-tags:
+tag:
 - Physical Activity and Non-Communicable Disease
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+ #caption:
+  #focal_point: 
 
 links:
 url_code: ""
@@ -24,7 +23,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: ""
 ---
 
 Poor preoperative fitness and physical capacity are risk factors for postoperative complications, delayed recovery, and prolonged disability (McLennan et al., 2019; van Rooijen et al., 2017). Despite limited evidence in women with breast cancer, exercise-based prehabilitation in people with lung cancer, colon, and prostate cancer has shown beneficial effects on physical capacity, function, lung function, urinary continence, postoperative morbidity, quality of life and mood (Boereboom; Faithfull; Singh). In addition, early intervention may improve patient engagement and adherence in postoperative rehabilitation and exercise programmes (Santa-Mina et al., 2017). Therefore, exercise in this postoperative, pre-chemotherapy period may prevent deconditioning and treatment-related morbidity and improve drug tolerance during adjuvant chemotherapy (Santa-Mina et al., 2017; Beaudry et al., 2019). However, there is a dearth of research during both the preoperative and the postoperative to commencing adjuvant therapy phases in patients with breast cancer.
