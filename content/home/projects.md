@@ -27,19 +27,19 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "Physical Activity and Non-Communicable Disease"
-  tag = "Physcial Activity and Non-Communicable Disease"
+  tag = ".Physcial Activity and Non-Communicable Disease"
  
   #[[content.filter_button]]
   #name = "Cryotherapy"
-  #tag = "Cryotherapy"
+  #tag = ".Cryotherapy"
   
   #[[content.filter_button]]
   #name = "Other"
-  #tag = "other"
+  #tag = ".other"
  
   #[[content.filter_button]]
   #name =
-  #tag = "Other"
+  #tag = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
