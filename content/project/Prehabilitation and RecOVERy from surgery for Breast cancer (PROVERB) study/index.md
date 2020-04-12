@@ -4,6 +4,13 @@ summary= "The feasibility of a multi-phasic exercise-based intervention utilisin
 tags = ["All", "Physical Activity and Non-Communicable Disease")
 date = "2016-04-27T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+#image:
+ #caption =
+ #focal_point = 
+
 url_code = ""
 url_pdf = ""
 url_slides = ""
