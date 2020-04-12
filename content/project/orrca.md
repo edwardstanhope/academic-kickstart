@@ -1,5 +1,5 @@
 +++
-title = "Online Resource for Recruitment research in Clinical triAls)"
+title = "Online Resource for Recruitment research in Clinical triAls (ORRCA)"
 date = 2018-11-08T04:23:35-08:00
 draft = false
 

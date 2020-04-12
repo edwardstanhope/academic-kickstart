@@ -1,5 +1,5 @@
 +++
-title = "Exercise-based cancer rehabilitation for women post-adjuvant therapy but beginning hormone therapy"
+title = "Exercise-based CAncer rehabilitation (DANCE) for women post-adjuvant therapy but beginning hormone therapy (CANDANCE)"
 date = 2018-11-08T04:23:35-08:00
 draft = false
 
