@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "projects"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,25 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   # filter_default = 0
   
-  [[content.filter_button]]
-  name = "All"
-  tag = "*"
+  #[[content.filter_button]]
+  #name = "All"
+  #tag = "*"
   
-  [[content.filter_button]]
-  name = "Physical Activity and Non-Communicable Disease"
-  tag = "Physcial Activity and Non-Communicable Disease"
+  #[[content.filter_button]]
+  #name = "Physical Activity and Non-Communicable Disease"
+  #tag = "Physcial Activity and Non-Communicable Disease"
  
-  [[content.filter_button]]
-  name = "Cryotherapy"
-  tag = "Cryotherapy"
+  #[[content.filter_button]]
+  #name = "Cryotherapy"
+  #tag = "Cryotherapy"
   
-  [[content.filter_button]]
-  name = "Other"
-  tag = "other"
+  #[[content.filter_button]]
+  #name = "Other"
+  #tag = "other"
  
-  [[content.filter_button]]
-  name = "The effects of cryo-compression (GameReady) therapy on shoulder proprioception in healthy adults"
-  tag = "Other"
+  #[[content.filter_button]]
+  #name =
+  #tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
