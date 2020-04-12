@@ -48,16 +48,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:edward.stanhope@staffs.ac.uk
+  link: "mailto:edward.stanhope@staffs.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ESporttherapist
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=97I02iUAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/edwardstanhope
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2928-3393
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Edward_Stanhope2
+#icon: github
+ #icon_pack: fab
+  #link: https://github.com/edwardstanhope
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
