@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Accomplishment"
-subtitle = "Last five courses"
+subtitle = "Last ten courses"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to the Biology of Cancer"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-19"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Coursera"
@@ -67,5 +77,45 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "http://www.coursera.org/"
+  title = "Understanding Clinical Research: Behind the Statistics"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "EdX"
+  organization_url = "https://www.edex.org"
+  title = "Fundamentals in Clinical Trials"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = ""
   
+ [[item]]
+  organization = "Coursera"
+  organization_url = "http://www.coursera.org/"
+  title = "Foundations of Data Analysis (Part I & II)"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Kinesio Taping Association"
+  organization_url = "http://www.kinesiotaping.co.uk/"
+  title = "Kinesio Taping (KT1 & KT2)"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-11-01"
+  date_end = ""
+  description = ""
+
 +++
