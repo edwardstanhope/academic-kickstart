@@ -14,7 +14,7 @@ summary = "ORRCA aims to collate relevant methodological research on recruitment
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.orrca.org.uk/"
 
 # Does the project detail page use math formatting?
 math = false
