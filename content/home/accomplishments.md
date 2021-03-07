@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "UK Equator Network"
+  organization_url = "https://www.ndorms.ox.ac.uk/"
+  title = "The secrets of success in writing, publishing, and disseminating research articles"
+  url = "https://www.ndorms.ox.ac.uk/graduate-courses/courses/equator-publication-school"
+  certificate_url = ""
+  date_start = "2021-03-05"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Introduction to the Biology of Cancer"
@@ -105,16 +115,6 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Kinesio Taping Association"
-  organization_url = "http://www.kinesiotaping.co.uk/"
-  title = "Kinesio Taping (KT1 & KT2)"
-  url = ""
-  certificate_url = ""
-  date_start = "2014-11-01"
   date_end = ""
   description = ""
 
