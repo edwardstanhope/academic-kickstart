@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Senior Lecturer Sport Therapy"
+  title = "Senior Lecturer Sports Therapy"
   company = "Staffordshire University"
   company_url = "http://www.staffs.ac.uk"
   location = "Stoke on Trent"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_end = ""
   
 [[experience]]
-  title = "Lecturer Sport Therapy"
+  title = "Lecturer Sports Therapy"
   company = "Staffordshire University"
   company_url = "http://www.staffs.ac.uk"
   location = "Stoke on Trent"
@@ -60,12 +60,11 @@ date_format = "Jan 2006"
   date_end = "2015-01-01"
 
 [[experience]]
-  title = "Graduate Teaching Assistant Sport Therapy"
+  title = "Graduate Teaching Assistant Sports Therapy"
   company = "University College Birmingham"
   company_url = "http://www.ucb.ac.uk"
   location = "Birmingham"
   date_start = "2013-01-01"
   date_end = "2014-08-01"
   date_end = ""  
-
 +++
