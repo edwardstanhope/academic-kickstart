@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Lecturer Sport Therapy"
+  company = "Staffordshire University"
+  company_url = "http://www.staffs.ac.uk"
+  location = "Stoke on Trent"
+  date_start = "2020-11-01"
+  date_end = ""  
+
+[[experience]]
   title = "Clinical Trials Distance Learning Tutor"
   company = "London School of Hygiene and Tropical Medicine"
   company_url = "http://www.lshtm.ac.uk"
@@ -27,21 +35,37 @@ date_format = "Jan 2006"
   date_end = ""
   
 [[experience]]
-  title = "Sport Therapy Lecturer"
+  title = "Lecturer Sport Therapy"
   company = "Staffordshire University"
   company_url = "http://www.staffs.ac.uk"
   location = "Stoke on Trent"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-11-01"
   
-
 [[experience]]
-  title = "Sport Therapy Lecturer"
+  title = "Lecturer Sport Therapy"
   company = "University College Birmingham"
   company_url = "http://www.ucb.ac.uk"
   location = "Birmingham"
   date_start = "2015-01-01"
   date_end = "2019-09-01"
   description = ""
+  
+  [[experience]]
+  title = "Lecturer Sport"
+  company = "Bournville College"
+  company_url = "http://www.sccb.ac.uk"
+  location = "Birmingham"
+  date_start = "2014-09-01"
+  date_end = "2015-01-01"
+
+[[experience]]
+  title = "Graduate Teaching Assistant Sport Therapy"
+  company = "University College Birmingham"
+  company_url = "http://www.ucb.ac.uk"
+  location = "Birmingham"
+  date_start = "2013-01-01"
+  date_end = "2014-08-01"
+  date_end = ""  
 
 +++
