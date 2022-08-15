@@ -80,12 +80,10 @@ email: ""
 user_groups:
 #Staffs Uni-fied Sports Research Alliance (SUSRA)
 ---
-Edward graduated from University of Birmingham in 2013 with a first class (hons) sport therapy degree. Upon graduating, Edward accepted a position with the University College Birmingham as a graduate sport therapy lecturer. In this role Edward worked closely with the sport therapy lecturers to provide support to students undertaking the undergraduate BSc and FdSc sport therapy course, while completing his post graduate certificate in teaching and learning in vocational subjects. In 2014, Edward was offered a position at Bournville College where he oversaw the sport undergraduate provision that was offered at the college in partnership with Newman University. 
+Edward graduated from the University of Birmingham in 2013 with a First Class (hons) Sports Therapy degree. Upon which he accepted an academic position with University College Birmingham teaching on the BSc and FdSc Sports Therapy programmes. In 2019, Edward completed his master’s in Teaching and Learning in Higher Education at the University of Birmingham and a master’s in Clinical Trials from the London School of Hygiene and Tropical Medicine, both with Distinction. 
 
-In 2016, Edward returned to University College Birmingham as a lecturer in sport, where he taught across the sport therapy, sport fitness studies and strength, conditioning and sport nutrition programs. During his time at the university he developed the academic/research strand of these courses and managed the final year research project on the sport fitness degree. 
-
-In 2019, Edward was awarded a master’s in teaching and learning with distinction from the University of Birmingham and was also awarded a master’s in clinical trials with distinction from the London School of Hygiene and Tropical Medicine, where he now occupies the position of Clinical Trials Distance Learning Tutor. 
-
-Edward’s contribution to sustained teaching and learning has been recognised by the higher education academy where he is a Senior Fellow. 
+In 2019, Edward joined Staffordshire University where he contributes to both the undergraduate and postgraduate sport programmes. Edward currently leads the departments undergraduate research modules, including the undergraduate dissertation. In the same year, Edward accepted a part time position with the London School of Hygiene and Tropical Medicine as a Distance Learning Tutor, where he is now the deputy module lead for the CTM201 Trial Designs module. 
 
 Edward is now working towards his PhD at the University of Wolverhampton, where his work focusses on the influence of exercise/physical activity during the treatment continuum in women with breast cancer.
+In addition to his PhD work, Edward is an active researcher and is involved in several international collaborations investigating the effects of exercise and non-communicable disease, cryotherapy and research methods. For more information on Edwards ongoing projects visit https://www.edwardstanhope.com/project/ 
+
