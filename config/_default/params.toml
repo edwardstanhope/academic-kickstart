@@ -86,14 +86,14 @@ phone = "+44 (0)1782 298511"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Sport & Exercise Brindley Building", city = "Stoke on Trent", region = "Stoke", postcode = "ST4 2DF", country = "United Kingdom", country_code = "UK"}
+address = {street = "Sport & Exercise", city = "Stoke on Trent", region = "Stoke", postcode = "ST4 2DF", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "53.0091", longitude = "-2.1761"}
 
 # Directions for visitors to locate you.
-directions = "Enter Brindley Building opposite Sir Stanley Matthews Sport Centre and take the stairs to Office B118 on Floor 1"
+directions = "Enter Ashley 1 opposite the main entrance to Staffordshire University, the sport and exercise office is on the ground floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
