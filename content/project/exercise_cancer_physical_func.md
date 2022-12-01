@@ -1,5 +1,5 @@
 +++
-title = "The effects of exercise interventions on physical function in people with cancer: a systematic review and meta-analysis of randomised controlled trials"
+title = "The effects of exercise interventions on physical function in people with cancer. A systematic review and meta-analysis of randomised controlled trials"
 date = 2018-11-08T04:23:35-08:00
 draft = false
 
