@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Programme Director (Interim) MSc Clinical Trials by Distance Learning"
+  company = "London School of Hygiene and Tropical Medicine"
+  company_url = "http://www.lshtm.ac.uk"
+  location = "London"
+  date_start = "2020-11-01"
+  date_end = ""
+
+[[experience]]
   title = "Senior Lecturer Sports Therapy"
   company = "Staffordshire University"
   company_url = "http://www.staffs.ac.uk"
@@ -27,7 +35,7 @@ date_format = "Jan 2006"
   date_end = ""  
 
 [[experience]]
-  title = "Clinical Trials Distance Learning Tutor"
+  title = "Module Organiser MSc Clinical Trials: CTM202 Trial Design"
   company = "London School of Hygiene and Tropical Medicine"
   company_url = "http://www.lshtm.ac.uk"
   location = "London"

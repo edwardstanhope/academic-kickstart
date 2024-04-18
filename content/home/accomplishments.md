@@ -18,13 +18,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
-  organization = "UK Equator Network"
-  organization_url = "https://www.ndorms.ox.ac.uk/"
+  organization = "Aspiring Leader"
+  organization_url = "https://www.staffs.ac.uk/"
   title = "The secrets of success in writing, publishing, and disseminating research articles"
   url = "https://www.ndorms.ox.ac.uk/graduate-courses/courses/equator-publication-school"
   certificate_url = ""
   date_start = "2021-03-05"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "UK Equator Network"
+  organization_url = "https://www.ndorms.ox.ac.uk/"
+  title = "Staffordshire University Aspiring Leaders"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-09-01"
   date_end = ""
   description = ""
 
