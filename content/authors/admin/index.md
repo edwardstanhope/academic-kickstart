@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer Sport Therapy & Programme Director (Interim) Clinical Trials
+role: Senior Lecturer Sport Therapy & co-Programme Director Clinical Trials
 
 # Organizations/Affiliations
 organizations:
@@ -85,7 +85,7 @@ Edward is a dedicated academic whose journey began with a First-Class Honours de
 
 In 2019, Edward continued his academic pursuits, completing his Master's in Teaching and Learning in Higher Education at the [University of Birmingham](https://www.birmingham.ac.uk/) and a Master's in Clinical Trials at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/), both of which he completed with Distinction.
 
-Transitioning to Staffordshire University in the same year, Edward has had the opportunity to contribute to undergraduate and postgraduate sport programmes. He has taken on leadership roles, including course leadership, module leadership including the undergraduate research modules, and supervising undergraduate and postgraduate dissertations.
+Transitioning to [Staffordshire University](https://www.staffs.ac.uk/) in the same year, Edward has had the opportunity to contribute to undergraduate and postgraduate sport programmes. He has taken on leadership roles, including course leadership, module leadership including the undergraduate research modules, and supervising undergraduate and postgraduate dissertations.
 
 In addition to his role at [Staffordshire University](https://www.staffs.ac.uk/), Edward holds the position of co-Programme Director for Clinical Trials by Distance Learning at the London School of Hygiene and Tropical Medicine and serves as a Module organiser on the CTM202 Trial design module.
 
