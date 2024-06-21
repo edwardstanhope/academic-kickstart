@@ -81,15 +81,15 @@ user_groups:
 #Staffs Uni-fied Sports Research Alliance (SUSRA)
 ---
 
-Edward is a dedicated academic whose journey began with a First-Class Honours degree in Sports Therapy from the University of Birmingham in 2013. Since then, he has been fortunate to contribute to academia, starting as a faculty member at University College Birmingham, where he had the privilege of teaching on the BSc and FdSc Sports Therapy programmes.
+Edward is a dedicated academic whose journey began with a First-Class Honours degree in Sports Therapy from the [University of Birmingham](https://www.birmingham.ac.uk/) in 2013. Since then, he has been fortunate to contribute to academia, starting as a faculty member at [University College Birmingham](https://www.ucb.ac.uk/), where he had the privilege of teaching on the BSc and FdSc Sports Therapy programmes.
 
-In 2019, Edward continued his academic pursuits, completing his Master's in Teaching and Learning in Higher Education at the University of Birmingham and a Master's in Clinical Trials at the London School of Hygiene and Tropical Medicine, both of which he completed with Distinction.
+In 2019, Edward continued his academic pursuits, completing his Master's in Teaching and Learning in Higher Education at the [University of Birmingham](https://www.birmingham.ac.uk/) and a Master's in Clinical Trials at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/), both of which he completed with Distinction.
 
 Transitioning to Staffordshire University in the same year, Edward has had the opportunity to contribute to undergraduate and postgraduate sport programmes. He has taken on leadership roles, including course leadership, module leadership including the undergraduate research modules, and supervising undergraduate and postgraduate dissertations.
 
-In addition to his role at Staffordshire University, Edward holds the position of (interim) Programme Director for Clinical Trials by Distance Learning at the London School of Hygiene and Tropical Medicine  and serves as a Module organiser on the CTM202 Trial design module.
+In addition to his role at [Staffordshire University](https://www.staffs.ac.uk/), Edward holds the position of co-Programme Director for Clinical Trials by Distance Learning at the London School of Hygiene and Tropical Medicine and serves as a Module organiser on the CTM202 Trial design module.
 
-Presently, Edward is pursuing a PhD at the University of Wolverhampton, focusing on the influence of exercise and physical activity on women with breast cancer during their treatment journey. Alongside his studies, he remains involved in research collaborations, exploring the effects of exercise on non-communicable diseases, cryotherapy, and research methodologies.
+Presently, Edward is pursuing a PhD at the [University of Wolverhampton](https://www.wlv.ac.uk/), focusing on the influence of exercise and physical activity on women with breast cancer during their treatment journey. Alongside his studies, he remains involved in research collaborations, exploring the effects of exercise on non-communicable diseases, cryotherapy, and research methodologies.
 
 For further information on Edward's ongoing projects, please visit his website: https://www.edwardstanhope.com/project/
 
