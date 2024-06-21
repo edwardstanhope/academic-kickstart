@@ -6,12 +6,11 @@ name: Edward N Stanhope
 authors:
 - admin
 
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Senior Lecturer Sport Therapy & co-Programme Director Clinical Trials
+role: Senior Lecturer Sport Therapy & Co-Programme Director Clinical Trials
 
 # Organizations/Affiliations
 organizations:
@@ -77,8 +76,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups:[]
 #Staffs Uni-fied Sports Research Alliance (SUSRA)
+
 ---
 
 Edward is a dedicated academic whose journey began with a First-Class Honours degree in Sports Therapy from the [University of Birmingham](https://www.birmingham.ac.uk/) in 2013. Since then, he has been fortunate to contribute to academia, starting as a faculty member at [University College Birmingham](https://www.ucb.ac.uk/), where he had the privilege of teaching on the BSc and FdSc Sports Therapy programmes.
