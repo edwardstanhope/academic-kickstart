@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "/static/files/godwin_2020b.pdf"
+url_pdf = "https://www.mdpi.com/2075-4663/8/3/37"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
+image = "/static/files/godwin_2020b.pdf"
 caption = ""
 +++

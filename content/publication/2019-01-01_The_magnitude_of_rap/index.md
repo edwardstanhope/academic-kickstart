@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "/static/files/matthews_2019.pdf"
+url_pdf = "https://journals.humankinetics.com/view/journals/ijsnem/29/4/article-p441.xml"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
+image = "/static/files/matthews_2019.pdf"
 caption = ""
 +++

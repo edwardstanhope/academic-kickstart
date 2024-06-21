@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "static/files/kearney_2022.pdf"
+url_pdf = "http://journals.sagepub.com/doi/10.1177/17407745211053803"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -24,6 +24,6 @@ math = true
 featured = true
 highlight = true
 [header]
-image = ""
+image = "/static/files/kearney_2022.pdf"
 caption = ""
 +++
